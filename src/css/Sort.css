@@ -1,0 +1,18 @@
+.textSort {
+  margin-bottom: 0px;
+}
+
+.Box {
+  width: 136px;
+  height: 138px;
+  background-color: white;
+  box-shadow: 2px 4px 10px 2px rgb(210, 210, 210);
+  position: absolute;
+  margin-left: 140px;
+  padding-bottom: 0px;
+  border-radius: 20px;
+  p {
+    margin-left: 20px;
+    cursor: pointer;
+  }
+}

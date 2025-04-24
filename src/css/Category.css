@@ -1,0 +1,9 @@
+.NoActive {
+  height: 46px;
+  margin-right: 15px;
+  padding: 0px 30px;
+  border-radius: 30px;
+  border: none;
+  font-weight: bold;
+  font-size: 15px;
+}
